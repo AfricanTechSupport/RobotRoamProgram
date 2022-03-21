@@ -34,7 +34,7 @@ function NyoomLoop_Left () {
     }
 }
 // LED display.
-basic.showIcon(IconNames.Asleep)
+basic.showIcon(IconNames.Silly)
 // Nyoom functions make Nyoom code.
 basic.forever(function () {
     NyoomMain()
